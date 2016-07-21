@@ -1,0 +1,20 @@
+{
+  "name": "scotchio_sample_crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Bryce Blilie",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.6",
+    "mongoose": "^4.5.5",
+    "morgan": "^1.7.0"
+  }
+}
